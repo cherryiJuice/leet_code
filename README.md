@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
 | [0739-daily-temperatures](https://github.com/cherryiJuice/leet_code/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
@@ -20,9 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
 | [0871-keys-and-rooms](https://github.com/cherryiJuice/leet_code/tree/master/0871-keys-and-rooms) |
 ## Graph
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/cherryiJuice/leet_code/tree/master/0871-keys-and-rooms) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
