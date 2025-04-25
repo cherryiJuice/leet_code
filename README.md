@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/cherryiJuice/leet_code/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/cherryiJuice/leet_code/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/cherryiJuice/leet_code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
