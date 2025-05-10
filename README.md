@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/cherryiJuice/leet_code/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
 | [0739-daily-temperatures](https://github.com/cherryiJuice/leet_code/tree/master/0739-daily-temperatures) |
 ## Stack
@@ -18,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/cherryiJuice/leet_code/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/cherryiJuice/leet_code/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/cherryiJuice/leet_code/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/cherryiJuice/leet_code/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
 | [0801-is-graph-bipartite](https://github.com/cherryiJuice/leet_code/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/cherryiJuice/leet_code/tree/master/0871-keys-and-rooms) |
@@ -42,5 +45,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/cherryiJuice/leet_code/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/cherryiJuice/leet_code/tree/master/0801-is-graph-bipartite) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/cherryiJuice/leet_code/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
