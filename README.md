@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/cherryiJuice/leet_code/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/cherryiJuice/leet_code/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
 | [0739-daily-temperatures](https://github.com/cherryiJuice/leet_code/tree/master/0739-daily-temperatures) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cherryiJuice/leet_code/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/cherryiJuice/leet_code/tree/master/0049-group-anagrams) |
 ## Union Find
 |  |
 | ------- |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cherryiJuice/leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cherryiJuice/leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/cherryiJuice/leet_code/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/cherryiJuice/leet_code/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
