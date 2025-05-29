@@ -1,27 +1,33 @@
 import java.util.*;
 class Solution {
-
-    Map<Integer, Integer> memo = new HashMap<>();
-    
     public int coinChange(int[] coins, int amount) {
-        int result = dfs(coins, amount);
-        return result == Integer.MAX_VALUE ? -1 : result;
-    }
+        if (amount == 0) return 0;
+        
+        Queue<Integer> q = new LinkedList<>();
+        boolean[] visited = new boolean[amount + 1];
+        int L = 0, total = 0;
+        q.add(0);
+        
+        while(!q.isEmpty()) {
+            int size = q.size();
+            for(int i=0; i<size; i++) {
+                int poll = total = q.poll();
 
-    public int dfs(int[] coins, int remain) {
-        if (remain < 0) return Integer.MAX_VALUE;
-        if (remain == 0) return 0;
-        if (memo.containsKey(remain)) return memo.get(remain);
-
-        int min = Integer.MAX_VALUE;
-        for (int coin : coins) {
-            int res = dfs(coins, remain - coin);
-            if (res != Integer.MAX_VALUE) {
-                min = Math.min(min, res + 1);
+                for(int j=0; j<coins.length; j++) {
+                    int next = poll + coins[j];
+                    if(next == amount) {
+                        return L + 1;
+                    }
+                    if(next <= amount && !visited[next]) {
+                        visited[next] = true;
+                        q.add(next);
+                    }
+                }
             }
+            L++;
         }
-
-        memo.put(remain, min);
-        return min;
+        if(total != amount) return -1;
+        
+        return L;
     }
 }
