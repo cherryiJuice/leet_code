@@ -17,8 +17,9 @@ class Solution {
             answer.add(new ArrayList<>(temp));
             return;
         }
-        for(int i=1; i<=n; i++) {
-            if(!visited[i] && (temp.isEmpty() || temp.get(temp.size() - 1) < i)) {
+        int init = temp.isEmpty() ? 0 : temp.get(temp.size()-1);
+        for(int i=init+1; i<=n; i++) {
+            if(!visited[i]) {
                 visited[i] = true;
                 temp.add(i);
                 dfs(L+1, n, visited, k, temp);
