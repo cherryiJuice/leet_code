@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/cherryiJuice/leet_code/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/cherryiJuice/leet_code/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/cherryiJuice/leet_code/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/cherryiJuice/leet_code/tree/master/0049-group-anagrams) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/cherryiJuice/leet_code/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
