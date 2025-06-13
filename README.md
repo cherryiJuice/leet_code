@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/cherryiJuice/leet_code/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/cherryiJuice/leet_code/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/cherryiJuice/leet_code/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/cherryiJuice/leet_code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/cherryiJuice/leet_code/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
 | [0529-minesweeper](https://github.com/cherryiJuice/leet_code/tree/master/0529-minesweeper) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/cherryiJuice/leet_code/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cherryiJuice/leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/cherryiJuice/leet_code/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cherryiJuice/leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/cherryiJuice/leet_code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/cherryiJuice/leet_code/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/cherryiJuice/leet_code/tree/master/0079-word-search) |
 ## Union Find
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/cherryiJuice/leet_code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/cherryiJuice/leet_code/tree/master/0200-number-of-islands) |
 | [0529-minesweeper](https://github.com/cherryiJuice/leet_code/tree/master/0529-minesweeper) |
 ## Tree
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/cherryiJuice/leet_code/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/cherryiJuice/leet_code/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/cherryiJuice/leet_code/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/cherryiJuice/leet_code/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
