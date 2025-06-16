@@ -5,20 +5,13 @@ class Solution {
     boolean[] visited;
 
     public List<List<Integer>> permute(int[] nums) {
-        List<Integer> temp;
-        for(int i=0; i<nums.length; i++) {
-            temp = new ArrayList<>();
-            visited = new boolean[nums.length];
-            visited[i] = true;
-            temp.add(nums[i]);
-            dfs(1, nums, visited, temp);
-        }
-        
+        visited = new boolean[nums.length];
+        dfs(nums, new ArrayList<>());
         return answer;
     }
 
-    private void dfs(int L, int[] nums, boolean[] visited, List<Integer> temp) {
-        if(L == nums.length) {
+    private void dfs(int[] nums, List<Integer> temp) {
+        if(temp.size() == nums.length) {
             answer.add(new ArrayList<>(temp));
             return;
         }
@@ -26,7 +19,7 @@ class Solution {
             if(!visited[i]) {
                 temp.add(nums[i]);
                 visited[i] = true;
-                dfs(L + 1, nums, visited, temp);
+                dfs(nums, temp);
                 visited[i] = false;
                 temp.remove(temp.size()-1);
             }
