@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/cherryiJuice/leet_code/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/cherryiJuice/leet_code/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/cherryiJuice/leet_code/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/cherryiJuice/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
 | [0529-minesweeper](https://github.com/cherryiJuice/leet_code/tree/master/0529-minesweeper) |
 | [0739-daily-temperatures](https://github.com/cherryiJuice/leet_code/tree/master/0739-daily-temperatures) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/cherryiJuice/leet_code/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/cherryiJuice/leet_code/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/cherryiJuice/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/cherryiJuice/leet_code/tree/master/0747-min-cost-climbing-stairs) |
 ## String
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/cherryiJuice/leet_code/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/cherryiJuice/leet_code/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
