@@ -1,33 +1,31 @@
-import java.util.*;
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        if (amount == 0) return 0;
-        
-        Queue<Integer> q = new LinkedList<>();
-        boolean[] visited = new boolean[amount + 1];
-        int L = 0, total = 0;
-        q.add(0);
-        
-        while(!q.isEmpty()) {
-            int size = q.size();
-            for(int i=0; i<size; i++) {
-                int poll = total = q.poll();
+        if(amount == 0) return 0;
 
+        int[] dp = new int[amount+1];
+
+        for(int i=0; i<coins.length; i++) {
+            if(coins[i] < amount)
+                dp[coins[i]] = 1;
+            if(amount == coins[i]) return 1;
+        }
+
+        for(int i=1; i<amount; i++) {
+            if(dp[i] != 0) {
                 for(int j=0; j<coins.length; j++) {
-                    int next = poll + coins[j];
-                    if(next == amount) {
-                        return L + 1;
-                    }
-                    if(next <= amount && !visited[next]) {
-                        visited[next] = true;
-                        q.add(next);
-                    }
+                    if(coins[j] < amount) {
+                        int sum = i + coins[j];
+                        if(sum <= amount && 
+                        (dp[sum] == 0 || dp[sum] >= dp[i] + 1)){
+                            dp[sum] = dp[i] + 1;
+                        }
+                    }   
                 }
             }
-            L++;
         }
-        if(total != amount) return -1;
+
         
-        return L;
+        if(dp[amount] == 0) return -1;
+        return dp[amount];
     }
 }
