@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
 | [0529-minesweeper](https://github.com/cherryiJuice/leet_code/tree/master/0529-minesweeper) |
 | [0739-daily-temperatures](https://github.com/cherryiJuice/leet_code/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/cherryiJuice/leet_code/tree/master/0747-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/cherryiJuice/leet_code/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
+| [0747-min-cost-climbing-stairs](https://github.com/cherryiJuice/leet_code/tree/master/0747-min-cost-climbing-stairs) |
 ## String
 |  |
 | ------- |
