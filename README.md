@@ -57,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/cherryiJuice/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/cherryiJuice/leet_code/tree/master/0747-min-cost-climbing-stairs) |
+| [1250-longest-common-subsequence](https://github.com/cherryiJuice/leet_code/tree/master/1250-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cherryiJuice/leet_code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/cherryiJuice/leet_code/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/cherryiJuice/leet_code/tree/master/0079-word-search) |
+| [1250-longest-common-subsequence](https://github.com/cherryiJuice/leet_code/tree/master/1250-longest-common-subsequence) |
 ## Union Find
 |  |
 | ------- |
