@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/cherryiJuice/leet_code/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cherryiJuice/leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0529-minesweeper](https://github.com/cherryiJuice/leet_code/tree/master/0529-minesweeper) |
+| [0744-network-delay-time](https://github.com/cherryiJuice/leet_code/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/cherryiJuice/leet_code/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/cherryiJuice/leet_code/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/cherryiJuice/leet_code/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
 | [0529-minesweeper](https://github.com/cherryiJuice/leet_code/tree/master/0529-minesweeper) |
+| [0744-network-delay-time](https://github.com/cherryiJuice/leet_code/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/cherryiJuice/leet_code/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/cherryiJuice/leet_code/tree/master/0871-keys-and-rooms) |
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/cherryiJuice/leet_code/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/cherryiJuice/leet_code/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/cherryiJuice/leet_code/tree/master/0871-keys-and-rooms) |
 ## Dynamic Programming
@@ -122,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/cherryiJuice/leet_code/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/cherryiJuice/leet_code/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/cherryiJuice/leet_code/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
