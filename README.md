@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/cherryiJuice/leet_code/tree/master/0529-minesweeper) |
 | [0739-daily-temperatures](https://github.com/cherryiJuice/leet_code/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/cherryiJuice/leet_code/tree/master/0747-min-cost-climbing-stairs) |
+| [1325-path-with-maximum-probability](https://github.com/cherryiJuice/leet_code/tree/master/1325-path-with-maximum-probability) |
 ## Stack
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/cherryiJuice/leet_code/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/cherryiJuice/leet_code/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/cherryiJuice/leet_code/tree/master/0871-keys-and-rooms) |
+| [1325-path-with-maximum-probability](https://github.com/cherryiJuice/leet_code/tree/master/1325-path-with-maximum-probability) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,8 +131,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/cherryiJuice/leet_code/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/cherryiJuice/leet_code/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/cherryiJuice/leet_code/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/cherryiJuice/leet_code/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
