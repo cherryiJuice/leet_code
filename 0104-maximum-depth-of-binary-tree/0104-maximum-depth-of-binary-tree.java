@@ -14,11 +14,8 @@
  * }
  */
 class Solution {
-    int answer;
     public int maxDepth(TreeNode root) {
-        answer = 0;
         return dfs(root);
-        // return answer;
     }
 
     public int dfs(TreeNode root) {
