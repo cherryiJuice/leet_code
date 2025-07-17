@@ -1,44 +1,35 @@
-public class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode() {}
-    TreeNode(int val) { this.val = val; }
-    TreeNode(int val, TreeNode left, TreeNode right) {
-        this.val = val;
-        this.left = left;
-        this.right = right;
-    }
-}
- 
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    int depth = 0;
+    int answer;
     public int maxDepth(TreeNode root) {
-        return bfs(root);
+        answer = 0;
+        return dfs(root);
+        // return answer;
     }
 
-    private int bfs(TreeNode node) {
-        if(node == null) {
+    public int dfs(TreeNode root) {
+        int lheight = 0;
+        int rheight = 0;
+        if(root == null) {
             return 0;
         }
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(node);
-        int L=0;
-
-        while(!queue.isEmpty()) {
-            int size = queue.size();
-            for(int i=0; i<size; i++) {
-                TreeNode curNode = queue.remove();
-                if(curNode.left != null) {
-                    queue.add(curNode.left);
-                }
-
-                if(curNode.right != null) {
-                    queue.add(curNode.right);
-                }
-            }
-            L++;
-        }
-        return L;
+        // 전위 : 루 -> 왼 -> 오
+        lheight = dfs(root.left) + 1;
+        rheight = dfs(root.right) + 1;
+        return Math.max(lheight, rheight);
     }
 }
