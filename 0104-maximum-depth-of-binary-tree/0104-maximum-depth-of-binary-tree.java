@@ -18,15 +18,11 @@ class Solution {
         return dfs(root);
     }
 
-    public int dfs(TreeNode root) {
-        int lheight = 0;
-        int rheight = 0;
-        if(root == null) {
-            return 0;
-        }
-        // 전위 : 루 -> 왼 -> 오
-        lheight = dfs(root.left) + 1;
-        rheight = dfs(root.right) + 1;
-        return Math.max(lheight, rheight);
+    int dfs (TreeNode node) {
+        if(node == null) return 0;
+        int max = 0;
+        max = Math.max(max, dfs(node.left));
+        max = Math.max(max, dfs(node.right));
+        return max + 1;
     }
 }
