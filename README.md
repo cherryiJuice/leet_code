@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/cherryiJuice/leet_code/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/cherryiJuice/leet_code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/cherryiJuice/leet_code/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0529-minesweeper](https://github.com/cherryiJuice/leet_code/tree/master/0529-minesweeper) |
 | [0744-network-delay-time](https://github.com/cherryiJuice/leet_code/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/cherryiJuice/leet_code/tree/master/0801-is-graph-bipartite) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/cherryiJuice/leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cherryiJuice/leet_code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/cherryiJuice/leet_code/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/cherryiJuice/leet_code/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
