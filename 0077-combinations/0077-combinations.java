@@ -1,31 +1,22 @@
-import java.util.*;
-
 class Solution {
-    boolean[] visited;
-    List<List<Integer>> answer = new ArrayList<>();
-
+    List<List<Integer>> result;
     public List<List<Integer>> combine(int n, int k) {
-        visited = new boolean[n + 1];
-        List<Integer> temp = new ArrayList<>();
-        dfs(0, n, visited, k, temp);
+        result = new ArrayList<>();
 
-        return answer;
+        dfs(n, k, 1, new ArrayList<>());
+
+        return result;
     }
 
-    private void dfs(int L, int n, boolean[] visited, int k, List<Integer> temp) {
-        if(L == k) {
-            answer.add(new ArrayList<>(temp));
+    void dfs(int n, int k, int start, List<Integer> temp) {
+        if(temp.size() == k) {
+            result.add(new ArrayList<>(temp));
             return;
         }
-        int init = temp.isEmpty() ? 0 : temp.get(temp.size()-1);
-        for(int i=init+1; i<=n; i++) {
-            if(!visited[i]) {
-                visited[i] = true;
-                temp.add(i);
-                dfs(L+1, n, visited, k, temp);
-                visited[i] = false;
-                temp.remove(temp.size()-1);
-            }
+        for(int i=start; i<=n; i++) {
+            temp.add(i);
+            dfs(n, k, i + 1, temp);
+            temp.remove(temp.size() - 1);
         }
     }
 }
