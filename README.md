@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
 | [0529-minesweeper](https://github.com/cherryiJuice/leet_code/tree/master/0529-minesweeper) |
 | [0739-daily-temperatures](https://github.com/cherryiJuice/leet_code/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/cherryiJuice/leet_code/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/cherryiJuice/leet_code/tree/master/0747-min-cost-climbing-stairs) |
 | [1325-path-with-maximum-probability](https://github.com/cherryiJuice/leet_code/tree/master/1325-path-with-maximum-probability) |
 ## Stack
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/cherryiJuice/leet_code/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/cherryiJuice/leet_code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/cherryiJuice/leet_code/tree/master/0322-coin-change) |
+| [0746-min-cost-climbing-stairs](https://github.com/cherryiJuice/leet_code/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/cherryiJuice/leet_code/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/cherryiJuice/leet_code/tree/master/1250-longest-common-subsequence) |
 ## String
